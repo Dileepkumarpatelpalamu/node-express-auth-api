@@ -26,6 +26,8 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.22",
     "redis": "^4.6.6",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0",
     "tree-extended": "^4.6.0"
   }
 }
